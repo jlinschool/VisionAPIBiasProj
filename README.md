@@ -1,5 +1,5 @@
 # Vision API Bias Project
-This is a QTM 250 project began to investigate some biases that Vision API might hold
+This is a QTM 250 project began to investigate some biases that Vision API might hold. For further replication of this project, please read the Jupyter Notebook file that is uploaded. 
 
 # Instruments
 Vision API on Google Cloud was used to develop measurements based on our dataset of facial expressions with various races and emotional expressions that were pre-labeled by us. 
